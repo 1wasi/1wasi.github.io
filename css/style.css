@@ -1,0 +1,9 @@
+.farst{
+  margin: 0;
+  font-weight:normal ;
+  text-align: center;
+  font-size: 80px;
+  outline: 5px solid black;
+  background-color: rgb(68, 53, 53);
+  color: rgb(255, 251, 212);
+}
